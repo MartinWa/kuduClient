@@ -1,0 +1,13 @@
+{
+  "name": "kuduClient",
+  "version": "0.0.0",
+  "description": "kuduClient",
+  "main": "app.js",
+  "author": {
+    "name": "martin",
+    "email": "martinw@gmail.com"
+  },
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
